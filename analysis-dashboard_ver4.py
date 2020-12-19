@@ -24,11 +24,11 @@ from sqlalchemy import create_engine
 # Follows django database settings format, replace with your own settings
 DATABASES = {
     'hoss_db':{
-        'NAME': 'hoss_db',
-        'USER': 'dev_user',
-        'PASSWORD': 'RRpBdDusLaTN2Uoo',
-        'HOST': 'hoss-db.cluster-cx3tki3wuuoj.us-east-1.rds.amazonaws.com',
-        'PORT': 5432,
+        'NAME': '.....',
+        'USER': '.....',
+        'PASSWORD': '.....',
+        'HOST': '.....',
+        'PORT': .....,
     },
 }
 
